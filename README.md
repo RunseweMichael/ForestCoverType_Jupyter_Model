@@ -96,7 +96,7 @@ The dataset contains several environmental and geographical features used for cl
   ![Feature Importance](images/feature_importance.png)  
 
 - ✅ **Classification Report Heatmap**  
-  ![Classification Report Heatmap](images/classification_report.png)  
+  ![Classification Report Heatmap](heatmap.png)  
 
 ---
 
