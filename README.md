@@ -90,13 +90,16 @@ The dataset contains several environmental and geographical features used for cl
 ## 📈 Visualizations   
 
 - ✅ **Confusion Matrix Heatmap**  
-  ![Confusion Matrix Heatmap](images/confusion_matrix.png)  
+  ![Confusion Matrix Heatmap](confusion_matrix.png)  
 
 - ✅ **Feature Importance Plot**  
-  ![Feature Importance](images/feature_importance.png)  
+  ![Feature Importance](feature_importance.png)  
 
 - ✅ **Classification Report Heatmap**  
-  ![Classification Report Heatmap](heatmap.png)  
+  ![Classification Report Heatmap](heatmap.png)
+
+- ✅ **Precision | Recall | F1 Score**  
+  ![Classification Report Heatmap](metrics.png)  
 
 ---
 
